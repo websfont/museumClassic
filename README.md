@@ -1,7 +1,7 @@
 # MuseumClassic
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "museumClassic";
     font-weight: 300;
     font-style: normal;
